@@ -1,3 +1,11 @@
 def square_array(array)
-  # your code here
+  new_arr = Array.new
+  
+  i = 0
+  while i < array.length
+    number = array[i]
+
+
+    i++
+  end
 end
