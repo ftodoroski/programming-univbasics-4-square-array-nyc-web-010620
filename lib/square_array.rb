@@ -5,7 +5,7 @@ def square_array(array)
   while i < array.length
     number = array[i]
 
-    new_arr << (number * number
+    new_arr << (number * number)
     i += 1
   end
 
