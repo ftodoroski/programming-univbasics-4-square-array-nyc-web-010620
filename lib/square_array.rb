@@ -8,4 +8,6 @@ def square_array(array)
     new_arr << number ** 2
     i++
   end
+
+  new_arr
 end
